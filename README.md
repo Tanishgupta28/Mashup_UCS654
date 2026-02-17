@@ -2,8 +2,6 @@
 
 A powerful tool to create audio mashups from YouTube videos of your favorite singers. This project includes both a **Command Line Interface (CLI)** for advanced users and a **Streamlit Web Application** for an easy-to-use experience.
 
-![Dashboard](image/final_image.png)
-
 ## Table of Contents
 - [Assignment Overview](#assignment-overview)
 - [Prerequisites](#prerequisites)
@@ -115,9 +113,3 @@ streamlit run 102316041_app.py
 Open your browser at `http://localhost:8501`.
 
 ---
-
-
-![Dashboard](image/final_image.png)
-
-### Email Output
-![Email Received](image/mail.png)
